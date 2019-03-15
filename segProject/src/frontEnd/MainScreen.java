@@ -51,7 +51,7 @@ public class MainScreen {
 		frame.getContentPane().setLayout(null);
 		
 		JComboBox comboBox = new JComboBox();
-		comboBox.setBounds(1256, 0, 109, 20);
+		comboBox.setBounds(1241, 0, 109, 20);
 		frame.getContentPane().add(comboBox);
 		comboBox.addItem("Item A");
 		comboBox.addItem("Item B");
